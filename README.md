@@ -2,7 +2,7 @@
 
 Personal developer portfolio for **Vishwa V**, a Data Analyst specialising in Python, SQL, Power BI, and data-driven dashboards.
 
-🌐 **Live site:** https://YOUR-SITE-URL/
+🌐 **Live site:** https://my-portfolio-rho-ruby-21.vercel.app/
 
 ---
 
